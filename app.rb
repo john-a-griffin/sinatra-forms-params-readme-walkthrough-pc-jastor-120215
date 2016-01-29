@@ -3,7 +3,7 @@ require_relative 'config/environment'
 class App < Sinatra::Base
       
       get '/' do 
-      "Tony is awesome"
+      "John is fly"
       end
   
   get '/food_form' do
